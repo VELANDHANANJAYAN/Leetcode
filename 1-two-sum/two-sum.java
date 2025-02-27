@@ -13,3 +13,5 @@ class Solution {
         return new int[]{};
     }
 }
+
+//better soln
